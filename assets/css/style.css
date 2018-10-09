@@ -1,0 +1,59 @@
+background {
+    color: black;
+
+}
+
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+.crystalGame {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    background-color:#b1afc3;
+    border: solid black 1px;
+
+}
+
+.crystalTitle {
+    font-size: 40px;
+}
+
+.instructions {
+    background-color: #9c67ac;
+    border: solid black 1px;
+    border-spacing: 20px;
+    margin-bottom: 15px;
+}
+.scoreboard {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.ranNum {
+    background-color:#3ba4ae;
+    border: solid black 1px;
+}
+.totScore {
+    background-color: #3ba4ae;
+    border: solid black 1px;
+}
+
+.wins {
+    background-color: #3ba4ae;
+    border: solid black 1px;
+}
+
+.losses {
+    background-color:#3ba4ae;
+    border: solid black 1px;
+}
+
+.crystalCard {
+    border: 0;
+}
+.crystalImage {
+    width: 93%;
+}
