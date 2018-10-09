@@ -24,7 +24,7 @@ var crystalValue2 = Math.floor(Math.random () * 12) + 1;
 console.log(crystalValue2);
 
 var crystalValue3 = Math.floor(Math.random () * 12) + 1;
-console.log(crstalValue3);
+console.log(crystalValue3);
 
 var crystalValue4 = Math.floor(Math.random () * 12) + 1;
 console.log(crystalValue4);
